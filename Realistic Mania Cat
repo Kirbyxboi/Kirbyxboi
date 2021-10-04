@@ -1,0 +1,22 @@
+
+Gabriel@Gabriel-PC MINGW64 ~
+$ /c/Users/Gabriel/Downloads/4kCat
+bash: /c/Users/Gabriel/Downloads/4kCat: Is a directory
+
+Gabriel@Gabriel-PC MINGW64 ~
+$ '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2'
+bash: /c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2: Is a directory
+
+Gabriel@Gabriel-PC MINGW64 ~
+$ '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k Mania Cat (Stays on top).exe' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k Mania Cat.exe' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/Config 4k.exe' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/config4k.txt' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/HowToUse.txt' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/README.txt' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/sfml-graphics-2.dll' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/sfml-system-2.dll' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/sfml-window-2.dll'
+bash: /c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k: Is a directory
+
+Gabriel@Gabriel-PC MINGW64 ~
+$ '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k/base_right.png' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k/base.png' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k/base_0001.png' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k/base_0010.png' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k/base_0011.png' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k/base_0100.png' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k/base_1000.png' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k/base_1100.png' '/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k/base_left.png'
+/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k/base_right.png: line 1: $'\211PNG': command not found
+/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k/base_right.png: line 2: $'\032': command not found
+/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k/base_right.png: line 10: syntax error near unexpected token `)'
+/c/Users/Gabriel/Downloads/4kCat/Mania Cat v1.1.2/4k/base_right.png: line 10: ɩ{▒▒{υ▒▒▒P▒▒f▒-b▒▒P▒㴻▒.▒▒▒▒c▒▒g▒▒S▒▒▒▒~:.=▒▒x▒▒▒▒▒O▒▒▒▒▒lV+▒rQ▒(▒▒▒_▒▒O\▒▒d▒h5y▒:l*▒7m1▒▒▒▒_▒͏^▒▒TVKe_le@▒kPe▒▒u▒Z▒▒▒z>▒]▒▒e▒TVL▒~.▒>▒-▒▒1)▒▒▒2▒▒▒!▒fM▒▒zm+▒▒J!w▒u▒\Mkr▒▒Z▒T▒|▒▒-▒▒▒r-▒▒m▒▒S▒I<z▒▒▒▒▒Oć▒▒o▒{▒=|▒▒▒▒'.>▒▒▒▒.ga▒▒▒\▒c׆▒▒쳴
+                                                                      ▒j:▒-▒▒▒▒▒▒▒▒x▒J▒▒▒▒▒G▒fm▒r▒▒ )עZWPe]W▒Q▒ƾNVO▒▒▒w,ʳ2Ȫ▒Z▒▒5▒:8▒▒^▒R'
+
+Gabriel@Gabriel-PC MINGW64 ~
